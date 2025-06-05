@@ -21,3 +21,12 @@
 - LangChain
 
 - Retrieval-Augmented Generation (RAG)
+
+
+### Endpoints
+
+***GET /ask_crew/{topic}***
+
+ Endpoint to ask the crew to perform a scrapping based on the provided topic.
+
+ 
